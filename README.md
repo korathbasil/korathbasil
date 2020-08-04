@@ -2,7 +2,7 @@
 ### myself Bazil Korath
 
 I wanna become a full stack developer.
-🌱 I’m currently learning web devdelopment.
+🌱 I’m currently learning front-end devdelopment.
 
 <!--
            
