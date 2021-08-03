@@ -1,8 +1,7 @@
 ### Hi there 👋
-### myself Bazil Korath
+### I'm Bazil Korath
 
-I wanna become a full stack developer.
-🌱 I’m currently learning front-end devdelopment.
+I'm a self-taught full stack developer.
 
 <!--
            
