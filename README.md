@@ -1,7 +1,7 @@
-### Hi there 👋
+#### Hi there 👋
 ### I'm Bazil Korath
-
-I'm a self-taught ReactJS, NodeJS and TypeScript developer.
+#### A Fullstack Developer.
+#### ReactJS - NodeJS - TypeScript
 
 <!--
            
